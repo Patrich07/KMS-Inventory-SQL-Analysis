@@ -94,7 +94,6 @@ FROM [KMS DSA].[dbo].[KMS_SQL_O1]
 GROUP BY [Product_Category]
 ORDER BY SUM(Sales) DESC;
 </pre>
-
 ## 👩‍💻 Author
 
 **Patience Richard Bassey**  
