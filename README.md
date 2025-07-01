@@ -82,11 +82,19 @@ Kultra Mega Stores (KMS) is a Lagos-based retailer of office supplies and furnit
 | File | Description |
 |------|-------------|
 | `KMS_SQL_Case_Study.csv` | Raw dataset |
-| [View SQL Queries Used in This Project](`SQL_Queries.sql`) | All queries used |
+| [View SQL Queries Used in This Project](`SQ[Uploading SQL001DSA.ssmssln…]()
+L_Queries.sql`) | All queries used |
 | `Insights_Summary.pdf` | Written summary of findings |
 | `KMS_Presentation_Slides.pptx` | Visual PowerPoint report |
 
 ---
+<pre> ```sqlSELECT 
+  [Product_Category],
+  FORMAT(SUM(Sales), 'N2') AS Total_Sales
+FROM [KMS DSA].[dbo].[KMS_SQL_O1]
+GROUP BY [Product_Category]
+ORDER BY SUM(Sales) DESC;
+</pre>
 
 ## 👩‍💻 Author
 
