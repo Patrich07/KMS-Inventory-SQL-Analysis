@@ -94,7 +94,7 @@ Kultra Mega Stores (KMS) is a Lagos-based retailer of office supplies and furnit
 Business Intelligence Analyst & Data Enthusiast  
 📍 Lagos, Nigeria  
 📧 [patience.richard73@gmail.com]  
-📎 [LinkedIn Profile or Portfolio Link]
+📎 [www.linkedin.com/in/pbassey1000]
 
 ---
 
