@@ -114,13 +114,13 @@ Home Office
 ![sqlq04](https://github.com/user-attachments/assets/fd68df55-4f4c-47d3-ae6f-bba0782f574e)
 ![sqlq03](https://github.com/user-attachments/assets/9ef38a5f-cd12-49f6-ab76-93846889bf64)
 ![sql005](https://github.com/user-attachments/assets/dcf3d0ed-f797-4e3b-8a53-252343eb0c4d)
-
+---
 ![sqldsa01](https://github.com/user-attachments/assets/3f7a86a4-5e76-4093-b2bc-6eddb83eb712)
 ![sqldsa02](https://github.com/user-attachments/assets/247ebec7-422f-4c5c-bdfb-fbaf4434479c)
 ![sqldsa03](https://github.com/user-attachments/assets/c5f9bbd5-de17-41c1-83f2-a0fdb6a7fef0)
 ![sqldsa04](https://github.com/user-attachments/assets/d298233f-b8d7-4edb-b1c8-b7c4b4570f81)
 ![sql005](https://github.com/user-attachments/assets/246968db-4052-41a3-ac59-37b94fbd9a53)
-
+---
 <pre> SELECT 
   [Product_Category],
   FORMAT(SUM(Sales), 'N2') AS Total_Sales
