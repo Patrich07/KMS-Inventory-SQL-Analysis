@@ -61,7 +61,26 @@ Kultra Mega Stores (KMS) is a Lagos-based retailer of office supplies and furnit
    → Emily Phan – ₦34,005.44
 
 10. **Which customers returned items and what segment?**  
-   → *Return data not available in dataset.*
+   → *📊 Insight:
+The customers with the highest number of returns were:
+
+Darren Budd (Consumer) – 9 returns
+
+Erin Creighton (Corporate) – 9 returns
+
+Olvera Toch (Home Office) – 8 returns
+
+Segments with the most frequent returns include:
+
+Small Business
+
+Corporate
+
+Home Office
+
+🔍 This insight may indicate potential issues with product satisfaction, service delivery, or segment-specific challenges that deserve further analysis or process review.
+
+*
 
 11. **Is shipping cost aligned with order priority?**  
    → No. Low-priority orders often used Express Air. KMS should re-align shipping strategy to save costs.
